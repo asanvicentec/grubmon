@@ -1,7 +1,8 @@
 #Global params
 desktop-image: "background.png"
-terminal-font: "Pokemon Fire Red Regular 16"
+title-text: ""
 
+terminal-font: "Pokemon Fire Red Regular 16"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
@@ -9,7 +10,7 @@ terminal-height: "100%"
 terminal-border: "0"
 
 + boot_menu {
-  left = 50%
+  left = 45%
   top = 20
   width = 1272
   height = 750
