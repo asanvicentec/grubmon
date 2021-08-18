@@ -6,7 +6,7 @@ terminal-font: "Pokemon Fire Red Regular 16"
   top = 20
   width = 1272
   height = 750
-  item_font = "Pokemon Fire Red Regular 16"
+  item_font = "Pokemon Fire Red Regular 24"
   selected_item_pixmap_style = "image/selection.png"
   selected_item_color = "#3050c8"
   icon_width = 32
