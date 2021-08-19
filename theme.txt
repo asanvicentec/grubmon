@@ -26,7 +26,6 @@ terminal-border: "0"
   item_spacing = 29
 }
 
-
 + label {
   top = 83%
   left = 3%
