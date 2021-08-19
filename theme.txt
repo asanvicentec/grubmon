@@ -2,7 +2,7 @@
 desktop-image: "background.png"
 title-text: ""
 
-terminal-font: "Pokemon Fire Red Regular 16"
+#terminal-font: "Pokemon Fire Red Regular 16"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
@@ -26,4 +26,14 @@ terminal-border: "0"
   item_padding = 3
   item_spacing = 25
   item_icon_space = 2
+}
+
++ label {
+  top = 90%
+  left = 5%
+  width = 90%
+  align = "left"
+  text = "@KEYMAP_LONG@"
+  color = "#f8f8f8"
+  font = "Pokemon Fire Red Regular 32"
 }
