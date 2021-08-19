@@ -39,7 +39,7 @@ terminal-border: "0"
 #  font = "Pokemon Fire Red Regular 32"
 }
 + label {
-  top = 80%
+  top = 90%
   left = 0%
   width = 100%
   align = "left"
