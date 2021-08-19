@@ -10,7 +10,7 @@ terminal-height: "100%"
 terminal-border: "0"
 
 + boot_menu {
-  left = 27%
+  left = 26%
   top = 20
   width = 1272
   height = 750
@@ -23,13 +23,13 @@ terminal-border: "0"
   item_icon_space = 20
   item_color = "#606060"
   item_height = 36
-  item_padding = 19
+  item_padding = 20
   item_spacing = 10
   item_icon_space = 2
 }
 
 + label {
-  top = 80%
+  top = 82%
   left = 3%
   width = 100%
   align = "left"
