@@ -33,18 +33,7 @@ terminal-border: "0"
   left = 0%
   width = 100%
   align = "left"
-  id = "__timeout__"
   text = "@KEYMAP_SHORT@"
-  color = "#f8f8f8"
-#  font = "Pokemon Fire Red Regular 32"
-}
-+ label {
-  top = 90%
-  left = 0%
-  width = 100%
-  align = "left"
-  id = "__timeout__"
-  text = ""
   color = "#f8f8f8"
 #  font = "Pokemon Fire Red Regular 32"
 }
