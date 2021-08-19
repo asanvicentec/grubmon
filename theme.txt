@@ -14,7 +14,7 @@ terminal-border: "0"
   top = 8%
   width = 1272
   height = 750
-  item_font = "Pokemon Fire Red Regular 32"
+  item_font = "Pokemon Fire Red Regular 48"
   selected_item_pixmap_style = "./image/selection.png"
   selected_item_color = "#3050c8"
   #icon_width = 32
@@ -22,9 +22,9 @@ terminal-border: "0"
 
   item_icon_space = 0
   item_color = "#606060"
-  item_height = 36
+  item_height = 48
   item_padding = 20
-  item_spacing = 35
+  item_spacing = 37
 }
 
 + label {
