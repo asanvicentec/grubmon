@@ -11,7 +11,7 @@ terminal-border: "0"
 
 + boot_menu {
   left = 30%
-  top = 8%
+  top = 7%
   width = 1272
   height = 750
   item_font = "Pokemon Fire Red Regular 48"
@@ -23,9 +23,10 @@ terminal-border: "0"
   item_icon_space = 0
   item_color = "#606060"
   item_height = 48
-  item_padding = 20
-  item_spacing = 37
+  item_padding = 22
+  item_spacing = 30
 }
+
 
 + label {
   top = 83%
