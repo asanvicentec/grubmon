@@ -11,7 +11,7 @@ terminal-border: "0"
 
 + boot_menu {
   left = 28%
-  top = 5%
+  top = 8%
   width = 1272
   height = 750
   item_font = "Pokemon Fire Red Regular 32"
