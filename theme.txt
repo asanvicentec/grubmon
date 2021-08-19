@@ -34,5 +34,5 @@ terminal-border: "0"
   align = "left"
   text = "@KEYMAP_MIDDLE@"
   color = "#f8f8f8"
-#  font = "Pokemon Fire Red Regular 32"
+  font = "Pokemon Fire Red Regular 32"
 }
