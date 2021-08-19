@@ -23,7 +23,7 @@ terminal-border: "0"
   item_icon_space = 20
   item_color = "#606060"
   item_height = 36
-  item_padding = 20
+  item_padding = 5%
   item_spacing = 12
   item_icon_space = 2
 }
@@ -33,7 +33,7 @@ terminal-border: "0"
   left = 3%
   width = 100%
   align = "left"
-  text = "@KEYMAP_SHORT@"
+  text = "@KEYMAP_MIDDLE@"
   color = "#f8f8f8"
 #  font = "Pokemon Fire Red Regular 32"
 }
