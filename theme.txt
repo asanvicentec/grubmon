@@ -24,7 +24,7 @@ terminal-border: "0"
   item_color = "#606060"
   item_height = 48
   item_padding = 22
-  item_spacing = 30
+  item_spacing = 28
 }
 
 
