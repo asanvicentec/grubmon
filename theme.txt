@@ -23,7 +23,7 @@ terminal-border: "0"
   item_icon_space = 20
   item_color = "#606060"
   item_height = 36
-  item_padding = 18
+  item_padding = 19
   item_spacing = 10
   item_icon_space = 2
 }
